@@ -1,0 +1,50 @@
+{
+  "HomeFeedAPIs": [
+    "https://www.xiaohongshu.com/api/sns/v4/homefeed?deviceId=940C97C6-7081-47FB-A65C-B399C46B0123&lang=zh&num=20&oid=homefeed_recommend&page=1&platform=iOS&sid=session.1175729576447743313&sign=9d6247097a1253d6f258d6bbd8315be9&size=l&t=1492926960&value=simple",
+    "https://www.xiaohongshu.com/api/sns/v4/homefeed?deviceId=940C97C6-7081-47FB-A65C-B399C46B0123&lang=zh&num=20&oid=homefeed.local.shenzhen&page=1&platform=iOS&sid=session.1175729576447743313&sign=26f0b9eda70506d40fab30634f7771f1&size=l&t=1492927057&value=simple",
+    "https://www.xiaohongshu.com/api/sns/v4/homefeed?deviceId=940C97C6-7081-47FB-A65C-B399C46B0123&lang=zh&num=20&oid=homefeed.men&page=1&platform=iOS&sid=session.1175729576447743313&sign=03af4d327af14016bf743906b39c0062&size=l&t=1492927938&value=simple",
+    "https://www.xiaohongshu.com/api/sns/v4/homefeed?deviceId=940C97C6-7081-47FB-A65C-B399C46B0123&lang=zh&num=20&oid=homefeed.skincare&page=1&platform=iOS&sid=session.1175729576447743313&sign=dd5012ec5feecc960b22539b4b8ca455&size=l&t=1492927140&value=simple",
+    "https://www.xiaohongshu.com/api/sns/v4/homefeed?deviceId=940C97C6-7081-47FB-A65C-B399C46B0123&lang=zh&num=20&oid=homefeed.home&page=1&platform=iOS&sid=session.1175729576447743313&sign=9050d35d06a9fc3a066e9f2b2ceeaaae&size=l&t=1492927264&value=simple",
+    "https://www.xiaohongshu.com/api/sns/v4/homefeed?deviceId=940C97C6-7081-47FB-A65C-B399C46B0123&lang=zh&num=20&oid=homefeed.fashion&page=1&platform=iOS&sid=session.1175729576447743313&sign=9446e1ad655ab52b4af4a5de544c030f&size=l&t=1492927283&value=simple",
+    "https://www.xiaohongshu.com/api/sns/v4/homefeed?deviceId=940C97C6-7081-47FB-A65C-B399C46B0123&lang=zh&num=20&oid=homefeed.food&page=1&platform=iOS&sid=session.1175729576447743313&sign=6087e4121973343921d6aa0214149893&size=l&t=1492927297&value=simple",
+    "https://www.xiaohongshu.com/api/sns/v4/homefeed?deviceId=940C97C6-7081-47FB-A65C-B399C46B0123&lang=zh&num=20&oid=homefeed.sport&page=1&platform=iOS&sid=session.1175729576447743313&sign=37d0eee7cf5f957238bebbad7784b38c&size=l&t=1492927311&value=simple",
+    "https://www.xiaohongshu.com/api/sns/v4/homefeed?deviceId=940C97C6-7081-47FB-A65C-B399C46B0123&lang=zh&num=20&oid=homefeed.travel&page=1&platform=iOS&sid=session.1175729576447743313&sign=b6e30803cb805f33538053072c361de1&size=l&t=1492927324&value=simple",
+    "https://www.xiaohongshu.com/api/sns/v4/homefeed?deviceId=940C97C6-7081-47FB-A65C-B399C46B0123&lang=zh&num=20&oid=homefeed.makeup&page=1&platform=iOS&sid=session.1175729576447743313&sign=e7973300d419b416a834ce422eac0620&size=l&t=1492928659&value=simple",
+    "https://www.xiaohongshu.com/api/sns/v4/homefeed?deviceId=940C97C6-7081-47FB-A65C-B399C46B0123&lang=zh&num=20&oid=homefeed.babycare&page=1&platform=iOS&sid=session.1175729576447743313&sign=39746cf8603ebb8844b05bd34308d092&size=l&t=1492927375&value=simple"
+  ],
+  "ExploreIndexAPIs": {
+  "banner":"https://www.xiaohongshu.com/api/sns/v4/explore/banner?deviceId=940C97C6-7081-47FB-A65C-B399C46B0123&lang=zh&platform=iOS&sid=session.1175729576447743313&sign=acfb570d71a04f90ff460109e36d825e&t=1492928797",
+  "multi_notes":"https://www.xiaohongshu.com/api/sns/v1/explore/multi_notes?deviceId=940C97C6-7081-47FB-A65C-B399C46B0123&lang=zh&page=1&platform=iOS&sid=session.1175729576447743313&sign=969e4eb69a91e63932c83f30bd53547a&t=1492928797",
+  },
+  "StoreIndexAPIs": {
+    "tabs": "https://www.xiaohongshu.com/api/store/v1/tabs?deviceId=940C97C6-7081-47FB-A65C-B399C46B0123&ios_app_ssl=1&lang=zh&platform=iOS&sid=session.1175729576447743313&sign=70be14c4fb65c7c7c234ab54e9e09deb&t=1492996850",
+    "recommend":{
+      "banners":"https://www.xiaohongshu.com/api/store/v5/banners?categoryid=categoryforall&deviceId=940C97C6-7081-47FB-A65C-B399C46B0123&fls_life_lab_show_queen=0&ios_app_ssl=1&lang=zh&platform=iOS&sid=session.1175729576447743313&sign=b96dfac1bdc676bb75eb8c38150e914c&t=1492996850",
+        "homefeeds":"https://www.xiaohongshu.com/api/store/v2/homefeeds?categoryid=categoryforall&deviceId=940C97C6-7081-47FB-A65C-B399C46B0123&ios_app_ssl=1&lang=zh&page=1&platform=iOS&sid=session.1175729576447743313&sign=2523b8ee0e5838c11313b86385a596e9&t=1492997318"
+      },
+      "makeup":{
+        "banners":"https://www.xiaohongshu.com/api/store/v5/banners?categoryid=577e2a05805d897d0743568a&deviceId=940C97C6-7081-47FB-A65C-B399C46B0123&fls_life_lab_show_queen=0&ios_app_ssl=1&lang=zh&platform=iOS&sid=session.1175729576447743313&sign=075326d7ad55d4b22b6e332346d9626f&t=1492997430",
+        "homefeeds":"https://www.xiaohongshu.com/api/store/v2/homefeeds?categoryid=577e2a05805d897d0743568a&deviceId=940C97C6-7081-47FB-A65C-B399C46B0123&ios_app_ssl=1&lang=zh&page=1&platform=iOS&sid=session.1175729576447743313&sign=3579d49ba5f7aa921fa06a911f4bc22f&t=1492997430"
+      },
+      "fashions":{
+        "banners":"https://www.xiaohongshu.com/api/store/v5/banners?categoryid=577e2a05805d897d07435685&deviceId=940C97C6-7081-47FB-A65C-B399C46B0123&fls_life_lab_show_queen=0&ios_app_ssl=1&lang=zh&platform=iOS&sid=session.1175729576447743313&sign=5bb6315c992ea045f8ed152c30a02711&t=1492997533",
+        "homefeeds":"https://www.xiaohongshu.com/api/store/v2/homefeeds?categoryid=577e2a05805d897d07435685&deviceId=940C97C6-7081-47FB-A65C-B399C46B0123&ios_app_ssl=1&lang=zh&page=1&platform=iOS&sid=session.1175729576447743313&sign=590e948f77c6b91cfba75b3e8a561dc2&t=1492997533"
+      },
+      "home":{
+        "banners":"https://www.xiaohongshu.com/api/store/v5/banners?categoryid=577e2a05805d897d07435688&deviceId=940C97C6-7081-47FB-A65C-B399C46B0123&fls_life_lab_show_queen=0&ios_app_ssl=1&lang=zh&platform=iOS&sid=session.1175729576447743313&sign=3a8f5e541828472ecd4483cbeea7acf2&t=1492997583",
+        "homefeeds":"https://www.xiaohongshu.com/api/store/v2/homefeeds?categoryid=577e2a05805d897d07435688&deviceId=940C97C6-7081-47FB-A65C-B399C46B0123&ios_app_ssl=1&lang=zh&page=1&platform=iOS&sid=session.1175729576447743313&sign=169fb303b6bc461226248e433df25658&t=1492997583"
+      },
+      "babycare":{
+        "banners":"https://www.xiaohongshu.com/api/store/v5/banners?categoryid=577e2a05805d897d07435684&deviceId=940C97C6-7081-47FB-A65C-B399C46B0123&fls_life_lab_show_queen=0&ios_app_ssl=1&lang=zh&platform=iOS&sid=session.1175729576447743313&sign=c25585b2c1dd20655c1bbe6853ab323c&t=1492997639",
+        "homefeeds":"https://www.xiaohongshu.com/api/store/v2/homefeeds?categoryid=577e2a05805d897d07435684&deviceId=940C97C6-7081-47FB-A65C-B399C46B0123&ios_app_ssl=1&lang=zh&page=1&platform=iOS&sid=session.1175729576447743313&sign=a87e03adb6a424f11760377581f0168f&t=1492997639"
+      },
+      "foods":{
+        "banners":"https://www.xiaohongshu.com/api/store/v5/banners?categoryid=577e2a05805d897d0743568d&deviceId=940C97C6-7081-47FB-A65C-B399C46B0123&fls_life_lab_show_queen=0&ios_app_ssl=1&lang=zh&platform=iOS&sid=session.1175729576447743313&sign=7f9e373108f366e22875387c723aae70&t=1492997723",
+        "homefeeds":"https://www.xiaohongshu.com/api/store/v2/homefeeds?categoryid=577e2a05805d897d0743568d&deviceId=940C97C6-7081-47FB-A65C-B399C46B0123&ios_app_ssl=1&lang=zh&page=1&platform=iOS&sid=session.1175729576447743313&sign=2a123749e2cbcd43c21cfdf6119a077b&t=1492997723"
+      },
+      "focus":{
+        "banners":"",
+        "homefeeds":""
+      }
+  }
+}

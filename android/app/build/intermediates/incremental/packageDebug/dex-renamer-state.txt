@@ -1,0 +1,4 @@
+#Sat Apr 29 01:53:56 CST 2017
+base.0=/Users/SMART/ReactNative/小红书/React_Xiaohongshu/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/SMART/ReactNative/小红书/React_Xiaohongshu/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
